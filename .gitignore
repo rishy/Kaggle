@@ -1,0 +1,9 @@
+*.csv
+*.pdf
+*.zip
+*.tsv
+*~
+*.RData
+*.Rhistory
+*.ipynb_checkpoints/**
+.git/**
